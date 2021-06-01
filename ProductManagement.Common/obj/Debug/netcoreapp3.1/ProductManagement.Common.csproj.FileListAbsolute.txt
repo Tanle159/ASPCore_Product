@@ -1,0 +1,52 @@
+E:\Project\Product\ProductManagement\ProductManagement.Common\bin\Debug\netcoreapp3.1\ProductManagement.Common.deps.json
+E:\Project\Product\ProductManagement\ProductManagement.Common\bin\Debug\netcoreapp3.1\ProductManagement.Common.dll
+E:\Project\Product\ProductManagement\ProductManagement.Common\bin\Debug\netcoreapp3.1\ProductManagement.Common.pdb
+E:\Project\Product\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.AssemblyInfoInputs.cache
+E:\Project\Product\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.AssemblyInfo.cs
+E:\Project\Product\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.csproj.CoreCompileInputs.cache
+E:\Project\Product\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.dll
+E:\Project\Product\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.pdb
+E:\ProductManagement\ProductManagement.Common\bin\Debug\netcoreapp3.1\ProductManagement.Common.deps.json
+E:\ProductManagement\ProductManagement.Common\bin\Debug\netcoreapp3.1\ProductManagement.Common.dll
+E:\ProductManagement\ProductManagement.Common\bin\Debug\netcoreapp3.1\ProductManagement.Common.pdb
+E:\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.AssemblyInfoInputs.cache
+E:\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.AssemblyInfo.cs
+E:\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.csproj.CoreCompileInputs.cache
+E:\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.dll
+E:\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.pdb
+E:\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.csprojAssemblyReference.cache
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Common\bin\Debug\netcoreapp3.1\ProductManagement.Common.deps.json
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Common\bin\Debug\netcoreapp3.1\ProductManagement.Common.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Common\bin\Debug\netcoreapp3.1\ProductManagement.Common.pdb
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.csprojAssemblyReference.cache
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.AssemblyInfo.cs
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.pdb
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Common\bin\Debug\netcoreapp3.1\ProductManagement.Common.deps.json
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Common\bin\Debug\netcoreapp3.1\ProductManagement.Common.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Common\bin\Debug\netcoreapp3.1\ProductManagement.Common.pdb
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.AssemblyInfoInputs.cache
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.AssemblyInfo.cs
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.csproj.CoreCompileInputs.cache
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.pdb
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Common\bin\Debug\netcoreapp3.1\ProductManagement.Common.deps.json
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Common\bin\Debug\netcoreapp3.1\ProductManagement.Common.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Common\bin\Debug\netcoreapp3.1\ProductManagement.Common.pdb
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.csprojAssemblyReference.cache
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.AssemblyInfoInputs.cache
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.AssemblyInfo.cs
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.csproj.CoreCompileInputs.cache
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.pdb
+C:\Source\Demo\ProductManagement\ProductManagement.Common\bin\Debug\netcoreapp3.1\ProductManagement.Common.deps.json
+C:\Source\Demo\ProductManagement\ProductManagement.Common\bin\Debug\netcoreapp3.1\ProductManagement.Common.dll
+C:\Source\Demo\ProductManagement\ProductManagement.Common\bin\Debug\netcoreapp3.1\ProductManagement.Common.pdb
+C:\Source\Demo\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.csprojAssemblyReference.cache
+C:\Source\Demo\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.AssemblyInfoInputs.cache
+C:\Source\Demo\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.AssemblyInfo.cs
+C:\Source\Demo\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.csproj.CoreCompileInputs.cache
+C:\Source\Demo\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.dll
+C:\Source\Demo\ProductManagement\ProductManagement.Common\obj\Debug\netcoreapp3.1\ProductManagement.Common.pdb

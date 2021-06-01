@@ -1,0 +1,413 @@
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.exe
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.deps.json
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.runtimeconfig.json
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.runtimeconfig.dev.json
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.pdb
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Npgsql.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Application.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Common.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Domain.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Application.pdb
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Common.pdb
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Domain.pdb
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.pdb
+E:\Project\Product\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.csprojAssemblyReference.cache
+E:\Project\Product\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.AssemblyInfoInputs.cache
+E:\Project\Product\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.AssemblyInfo.cs
+E:\Project\Product\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.csproj.CoreCompileInputs.cache
+E:\Project\Product\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\Product\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\ProductManagement.API.StaticWebAssets.Manifest.cache
+E:\Project\Product\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\ProductManagement.API.StaticWebAssets.xml
+E:\Project\Product\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductManagement.API.styles.css
+E:\Project\Product\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.RazorTargetAssemblyInfo.cache
+E:\Project\Product\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.csproj.CopyComplete
+E:\Project\Product\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.pdb
+E:\Project\Product\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.genruntimeconfig.cache
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Infrastructure.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Infrastructure.pdb
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\MediatR.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Project\Product\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.csprojAssemblyReference.cache
+E:\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.AssemblyInfoInputs.cache
+E:\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.AssemblyInfo.cs
+E:\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.csproj.CoreCompileInputs.cache
+E:\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.MvcApplicationPartsAssemblyInfo.cache
+E:\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.dll
+E:\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.pdb
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.exe
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.deps.json
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.runtimeconfig.json
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.runtimeconfig.dev.json
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.pdb
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\MediatR.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Npgsql.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Application.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Common.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Domain.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Infrastructure.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Application.pdb
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Common.pdb
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Domain.pdb
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Infrastructure.pdb
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.pdb
+E:\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\ProductManagement.API.StaticWebAssets.Manifest.cache
+E:\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\ProductManagement.API.StaticWebAssets.xml
+E:\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductManagement.API.styles.css
+E:\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.RazorTargetAssemblyInfo.cache
+E:\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.csproj.CopyComplete
+E:\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.genruntimeconfig.cache
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+E:\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.MvcApplicationPartsAssemblyInfo.cs
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.exe
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.deps.json
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.runtimeconfig.json
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.runtimeconfig.dev.json
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.pdb
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Application.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Common.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Domain.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Infrastructure.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Application.pdb
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Common.pdb
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Domain.pdb
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Infrastructure.pdb
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.pdb
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.csprojAssemblyReference.cache
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.AssemblyInfo.cs
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\ProductManagement.API.StaticWebAssets.Manifest.cache
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\ProductManagement.API.StaticWebAssets.xml
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductManagement.API.styles.css
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.RazorTargetAssemblyInfo.cache
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.csproj.CopyComplete
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.pdb
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.genruntimeconfig.cache
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.exe
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.deps.json
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.runtimeconfig.json
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.runtimeconfig.dev.json
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.pdb
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\MediatR.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Npgsql.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Application.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Common.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Domain.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Infrastructure.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Application.pdb
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Common.pdb
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Domain.pdb
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Infrastructure.pdb
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.pdb
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.csprojAssemblyReference.cache
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.AssemblyInfoInputs.cache
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.AssemblyInfo.cs
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.csproj.CoreCompileInputs.cache
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.MvcApplicationPartsAssemblyInfo.cs
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.MvcApplicationPartsAssemblyInfo.cache
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\ProductManagement.API.StaticWebAssets.Manifest.cache
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\ProductManagement.API.StaticWebAssets.xml
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductManagement.API.styles.css
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.RazorTargetAssemblyInfo.cache
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.csproj.CopyComplete
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.pdb
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.genruntimeconfig.cache
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\nlog.config
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\NLog.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\nlog.config
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.exe
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.deps.json
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.runtimeconfig.json
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.runtimeconfig.dev.json
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.pdb
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\MediatR.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\NLog.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Npgsql.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Application.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Common.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Domain.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Infrastructure.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Application.pdb
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Common.pdb
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Domain.pdb
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Infrastructure.pdb
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.pdb
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.csprojAssemblyReference.cache
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.AssemblyInfoInputs.cache
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.AssemblyInfo.cs
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.csproj.CoreCompileInputs.cache
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\ProductManagement.API.StaticWebAssets.Manifest.cache
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\ProductManagement.API.StaticWebAssets.xml
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductManagement.API.styles.css
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.RazorTargetAssemblyInfo.cache
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.csproj.CopyComplete
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.pdb
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.genruntimeconfig.cache
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\nlog.config
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.exe
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.deps.json
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.runtimeconfig.json
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.runtimeconfig.dev.json
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.API.pdb
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Application.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Common.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Domain.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Infrastructure.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Application.pdb
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Common.pdb
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Domain.pdb
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Infrastructure.pdb
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.pdb
+C:\Source\Demo\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.csprojAssemblyReference.cache
+C:\Source\Demo\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.AssemblyInfoInputs.cache
+C:\Source\Demo\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.AssemblyInfo.cs
+C:\Source\Demo\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.csproj.CoreCompileInputs.cache
+C:\Source\Demo\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Source\Demo\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Source\Demo\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\ProductManagement.API.StaticWebAssets.Manifest.cache
+C:\Source\Demo\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\ProductManagement.API.StaticWebAssets.xml
+C:\Source\Demo\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductManagement.API.styles.css
+C:\Source\Demo\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.RazorTargetAssemblyInfo.cache
+C:\Source\Demo\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.csproj.CopyComplete
+C:\Source\Demo\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.pdb
+C:\Source\Demo\ProductManagement\ProductManagement.API\obj\Debug\netcoreapp3.1\ProductManagement.API.genruntimeconfig.cache
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Source\Demo\ProductManagement\ProductManagement.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll

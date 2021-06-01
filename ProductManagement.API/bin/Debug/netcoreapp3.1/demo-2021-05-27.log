@@ -1,0 +1,663 @@
+2021-05-27 08:04:29.1594||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 08:05:46.9480||INFO|ProductManagement.API.Controllers.ProductsController|UpdatePutProduct 
+2021-05-27 08:05:46.9761||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|EditProductData 
+2021-05-27 08:06:02.2722|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (20ms) [Parameters=[@p7='?' (DbType = Int32), @p0='?', @p1='?' (DbType = DateTime), @p2='?', @p3='?' (DbType = Double), @p4='?' (DbType = Int32), @p5='?' (DbType = DateTime), @p6='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+UPDATE "Products" SET "Description" = @p0, "DiscontinuedDate" = @p1, "Name" = @p2, "Price" = @p3, "Rating" = @p4, "ReleaseDate" = @p5, "SupplierID" = @p6
+WHERE "ID" = @p7; 
+2021-05-27 08:06:02.3685|10000|ERROR|Microsoft.EntityFrameworkCore.Update|An exception occurred in the database while saving changes for context type 'ProductManagement.Persistences.ProductDataContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: insert or update on table "Products" violates foreign key constraint "FK_Products_Suppliers_SupplierID"
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming)
+   at Npgsql.NpgsqlCommand.ExecuteReaderAsync(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: insert or update on table "Products" violates foreign key constraint "FK_Products_Suppliers_SupplierID"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: Products
+    ConstraintName: FK_Products_Suppliers_SupplierID
+    File: d:\pginstaller_13.auto\postgres.windows-x64\src\backend\utils\adt\ri_triggers.c
+    Line: 2479
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: insert or update on table "Products" violates foreign key constraint "FK_Products_Suppliers_SupplierID"
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming)
+   at Npgsql.NpgsqlCommand.ExecuteReaderAsync(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: insert or update on table "Products" violates foreign key constraint "FK_Products_Suppliers_SupplierID"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: Products
+    ConstraintName: FK_Products_Suppliers_SupplierID
+    File: d:\pginstaller_13.auto\postgres.windows-x64\src\backend\utils\adt\ri_triggers.c
+    Line: 2479
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2021-05-27 08:06:02.7294||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Error Save !!!  
+2021-05-27 08:06:15.0497||INFO|ProductManagement.API.Controllers.ProductsController|UpdatePutProduct 
+2021-05-27 08:06:15.0497||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|EditProductData 
+2021-05-27 08:06:16.9683|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (3ms) [Parameters=[@p7='?' (DbType = Int32), @p0='?', @p1='?' (DbType = DateTime), @p2='?', @p3='?' (DbType = Double), @p4='?' (DbType = Int32), @p5='?' (DbType = DateTime), @p6='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+UPDATE "Products" SET "Description" = @p0, "DiscontinuedDate" = @p1, "Name" = @p2, "Price" = @p3, "Rating" = @p4, "ReleaseDate" = @p5, "SupplierID" = @p6
+WHERE "ID" = @p7; 
+2021-05-27 08:06:16.9683|10000|ERROR|Microsoft.EntityFrameworkCore.Update|An exception occurred in the database while saving changes for context type 'ProductManagement.Persistences.ProductDataContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: insert or update on table "Products" violates foreign key constraint "FK_Products_Suppliers_SupplierID"
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming)
+   at Npgsql.NpgsqlCommand.ExecuteReaderAsync(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: insert or update on table "Products" violates foreign key constraint "FK_Products_Suppliers_SupplierID"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: Products
+    ConstraintName: FK_Products_Suppliers_SupplierID
+    File: d:\pginstaller_13.auto\postgres.windows-x64\src\backend\utils\adt\ri_triggers.c
+    Line: 2479
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: insert or update on table "Products" violates foreign key constraint "FK_Products_Suppliers_SupplierID"
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming)
+   at Npgsql.NpgsqlCommand.ExecuteReaderAsync(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: insert or update on table "Products" violates foreign key constraint "FK_Products_Suppliers_SupplierID"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: Products
+    ConstraintName: FK_Products_Suppliers_SupplierID
+    File: d:\pginstaller_13.auto\postgres.windows-x64\src\backend\utils\adt\ri_triggers.c
+    Line: 2479
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2021-05-27 08:06:17.2809||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Error Save !!!  
+2021-05-27 08:06:38.8224||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|GetProductById 
+2021-05-27 08:21:31.3131||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 08:21:42.3733||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|GetByQuery 
+2021-05-27 08:21:48.4921||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|GetByQuery 
+2021-05-27 08:22:14.6588||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|GetByQuery 
+2021-05-27 08:30:20.0177||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 08:31:35.1485||INFO|ProductManagement.API.Controllers.ProductsController|DeleteProduct 
+2021-05-27 08:31:35.1551||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|DeleteProduct 
+2021-05-27 08:31:42.7010||INFO|ProductManagement.API.Controllers.ProductsController|DeleteProduct 
+2021-05-27 08:31:42.7010||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|DeleteProduct 
+2021-05-27 08:31:42.7618|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (12ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+DELETE FROM "Products"
+WHERE "ID" = @p0; 
+2021-05-27 08:31:42.8112|10000|ERROR|Microsoft.EntityFrameworkCore.Update|An exception occurred in the database while saving changes for context type 'ProductManagement.Persistences.ProductDataContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: update or delete on table "Products" violates foreign key constraint "FK_ProductDetails_Products_ProductID" on table "ProductDetails"
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming)
+   at Npgsql.NpgsqlCommand.ExecuteReaderAsync(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: update or delete on table "Products" violates foreign key constraint "FK_ProductDetails_Products_ProductID" on table "ProductDetails"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: ProductDetails
+    ConstraintName: FK_ProductDetails_Products_ProductID
+    File: d:\pginstaller_13.auto\postgres.windows-x64\src\backend\utils\adt\ri_triggers.c
+    Line: 2493
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: update or delete on table "Products" violates foreign key constraint "FK_ProductDetails_Products_ProductID" on table "ProductDetails"
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming)
+   at Npgsql.NpgsqlCommand.ExecuteReaderAsync(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: update or delete on table "Products" violates foreign key constraint "FK_ProductDetails_Products_ProductID" on table "ProductDetails"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: ProductDetails
+    ConstraintName: FK_ProductDetails_Products_ProductID
+    File: d:\pginstaller_13.auto\postgres.windows-x64\src\backend\utils\adt\ri_triggers.c
+    Line: 2493
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2021-05-27 08:31:43.0436||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Error Save !!!  
+2021-05-27 08:36:48.9137||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 08:36:55.2047||INFO|ProductManagement.API.Controllers.ProductsController|DeleteProduct 
+2021-05-27 08:36:55.2047||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|DeleteProduct 
+2021-05-27 08:36:56.7475|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (14ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+DELETE FROM "Products"
+WHERE "ID" = @p0; 
+2021-05-27 08:36:56.7978|10000|ERROR|Microsoft.EntityFrameworkCore.Update|An exception occurred in the database while saving changes for context type 'ProductManagement.Persistences.ProductDataContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: update or delete on table "Products" violates foreign key constraint "FK_ProductDetails_Products_ProductID" on table "ProductDetails"
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming)
+   at Npgsql.NpgsqlCommand.ExecuteReaderAsync(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: update or delete on table "Products" violates foreign key constraint "FK_ProductDetails_Products_ProductID" on table "ProductDetails"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: ProductDetails
+    ConstraintName: FK_ProductDetails_Products_ProductID
+    File: d:\pginstaller_13.auto\postgres.windows-x64\src\backend\utils\adt\ri_triggers.c
+    Line: 2493
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: update or delete on table "Products" violates foreign key constraint "FK_ProductDetails_Products_ProductID" on table "ProductDetails"
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming)
+   at Npgsql.NpgsqlCommand.ExecuteReaderAsync(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: update or delete on table "Products" violates foreign key constraint "FK_ProductDetails_Products_ProductID" on table "ProductDetails"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: ProductDetails
+    ConstraintName: FK_ProductDetails_Products_ProductID
+    File: d:\pginstaller_13.auto\postgres.windows-x64\src\backend\utils\adt\ri_triggers.c
+    Line: 2493
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2021-05-27 08:36:57.0384||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Có lỗi khi lưu lại thay đổi !  
+2021-05-27 08:37:02.0681||INFO|ProductManagement.API.Controllers.ProductsController|DeleteProduct 
+2021-05-27 08:37:02.0681||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|DeleteProduct 
+2021-05-27 08:37:02.2603||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Dữ liệu không tìm thấy 
+2021-05-27 08:37:55.0269||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 08:37:57.2312||INFO|ProductManagement.API.Controllers.ProductsController|DeleteProduct 
+2021-05-27 08:37:57.2395||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|DeleteProduct 
+2021-05-27 08:37:58.7798|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (13ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+DELETE FROM "Products"
+WHERE "ID" = @p0; 
+2021-05-27 08:37:58.8303|10000|ERROR|Microsoft.EntityFrameworkCore.Update|An exception occurred in the database while saving changes for context type 'ProductManagement.Persistences.ProductDataContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: update or delete on table "Products" violates foreign key constraint "FK_ProductDetails_Products_ProductID" on table "ProductDetails"
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming)
+   at Npgsql.NpgsqlCommand.ExecuteReaderAsync(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: update or delete on table "Products" violates foreign key constraint "FK_ProductDetails_Products_ProductID" on table "ProductDetails"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: ProductDetails
+    ConstraintName: FK_ProductDetails_Products_ProductID
+    File: d:\pginstaller_13.auto\postgres.windows-x64\src\backend\utils\adt\ri_triggers.c
+    Line: 2493
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: update or delete on table "Products" violates foreign key constraint "FK_ProductDetails_Products_ProductID" on table "ProductDetails"
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass160_0.<<DoReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming)
+   at Npgsql.NpgsqlCommand.ExecuteReaderAsync(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: update or delete on table "Products" violates foreign key constraint "FK_ProductDetails_Products_ProductID" on table "ProductDetails"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: ProductDetails
+    ConstraintName: FK_ProductDetails_Products_ProductID
+    File: d:\pginstaller_13.auto\postgres.windows-x64\src\backend\utils\adt\ri_triggers.c
+    Line: 2493
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2021-05-27 08:37:59.0740||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Có lỗi khi lưu lại thay đổi !  
+2021-05-27 08:42:58.5416||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 08:43:11.5446||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|GetProductById 
+2021-05-27 08:43:20.6659||INFO|ProductManagement.API.Controllers.ProductsController|DeleteProduct 
+2021-05-27 08:43:20.6659||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|DeleteProduct 
+2021-05-27 08:43:24.8732||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|GetProductById 
+2021-05-27 08:43:37.4871||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|GetProductById 
+2021-05-27 08:43:57.9561||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 08:43:57.9669||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 08:43:58.2669||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Error mapping types.
+
+Mapping types:
+Product -> ProductView
+ProductManagement.Domain.Product -> ProductManagement.Application.ProductsService.DTO.ProductView
+
+Type Map configuration:
+Product -> ProductView
+ProductManagement.Domain.Product -> ProductManagement.Application.ProductsService.DTO.ProductView
+
+Destination Member:
+categories
+ 
+2021-05-27 08:45:48.9481||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 08:45:54.2496||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 08:45:54.2496||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 08:46:16.1246||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Error mapping types.
+
+Mapping types:
+Product -> ProductView
+ProductManagement.Domain.Product -> ProductManagement.Application.ProductsService.DTO.ProductView
+
+Type Map configuration:
+Product -> ProductView
+ProductManagement.Domain.Product -> ProductManagement.Application.ProductsService.DTO.ProductView
+
+Destination Member:
+categories
+ 
+2021-05-27 08:50:24.8284||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 08:50:31.3774||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 08:50:31.3919||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 08:51:03.8823||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Error mapping types.
+
+Mapping types:
+Product -> ProductView
+ProductManagement.Domain.Product -> ProductManagement.Application.ProductsService.DTO.ProductView
+
+Type Map configuration:
+Product -> ProductView
+ProductManagement.Domain.Product -> ProductManagement.Application.ProductsService.DTO.ProductView
+
+Destination Member:
+categories
+ 
+2021-05-27 08:51:24.2831||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 08:51:24.2916||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 08:51:38.4661||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Error mapping types.
+
+Mapping types:
+Product -> ProductView
+ProductManagement.Domain.Product -> ProductManagement.Application.ProductsService.DTO.ProductView
+
+Type Map configuration:
+Product -> ProductView
+ProductManagement.Domain.Product -> ProductManagement.Application.ProductsService.DTO.ProductView
+
+Destination Member:
+categories
+ 
+2021-05-27 08:52:15.2587||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 08:52:24.3388||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 08:52:24.3388||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 08:52:43.0618||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Error mapping types.
+
+Mapping types:
+Product -> ProductView
+ProductManagement.Domain.Product -> ProductManagement.Application.ProductsService.DTO.ProductView
+
+Type Map configuration:
+Product -> ProductView
+ProductManagement.Domain.Product -> ProductManagement.Application.ProductsService.DTO.ProductView
+
+Destination Member:
+categories
+ 
+2021-05-27 08:53:39.6723||INFO|ProductManagement.API.Controllers.ProductsController|UpdatePutProduct 
+2021-05-27 08:53:39.6723||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|EditProductData 
+2021-05-27 08:53:40.1466||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Error mapping types.
+
+Mapping types:
+Product -> ProductView
+ProductManagement.Domain.Product -> ProductManagement.Application.ProductsService.DTO.ProductView
+
+Type Map configuration:
+Product -> ProductView
+ProductManagement.Domain.Product -> ProductManagement.Application.ProductsService.DTO.ProductView
+
+Destination Member:
+categories
+ 
+2021-05-27 08:53:57.7942||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|GetAllProduct 
+2021-05-27 08:58:07.1367||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 08:58:17.5174||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 08:58:17.5301||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 09:02:39.6653||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 09:03:02.9483||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 09:03:02.9659||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 09:04:14.3358||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 09:04:23.4992||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 09:04:23.5148||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 09:04:25.1611||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Error mapping types.
+
+Mapping types:
+Product -> ProductView
+ProductManagement.Domain.Product -> ProductManagement.Application.ProductsService.DTO.ProductView
+
+Type Map configuration:
+Product -> ProductView
+ProductManagement.Domain.Product -> ProductManagement.Application.ProductsService.DTO.ProductView
+
+Destination Member:
+categories
+ 
+2021-05-27 09:04:47.2447||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 09:04:56.4956||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 09:04:56.5097||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 09:10:04.6802||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 09:10:09.3275||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 09:10:09.3446||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 09:11:30.3878||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 09:11:36.9400||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 09:11:36.9538||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 09:12:58.7172||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 09:13:13.1952||INFO|ProductManagement.API.Controllers.ProductsController|UpdatePutProduct 
+2021-05-27 09:13:13.2105||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|EditProductData 
+2021-05-27 09:13:40.5641||INFO|ProductManagement.API.Controllers.ProductsController|UpdatePutProduct 
+2021-05-27 09:13:40.5641||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|EditProductData 
+2021-05-27 09:15:24.1148||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 09:15:30.0562||INFO|ProductManagement.API.Controllers.ProductsController|UpdatePutProduct 
+2021-05-27 09:15:30.1029||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|EditProductData 
+2021-05-27 09:15:48.7788||INFO|ProductManagement.API.Controllers.ProductsController|UpdatePutProduct 
+2021-05-27 09:15:48.7788||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|EditProductData 
+2021-05-27 09:16:35.4540||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 09:30:01.4395||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 09:30:17.7036||INFO|ProductManagement.API.Controllers.ProductsController|UpdatePricetProduct 
+2021-05-27 09:30:17.7432||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|UpdatePrice 
+2021-05-27 09:30:24.6321||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|GetProductById 
+2021-05-27 09:39:18.8140||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 09:39:27.2414||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|GetAllProduct 
+2021-05-27 09:47:24.7289||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|GetProductById 
+2021-05-27 10:02:46.2447||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 10:03:43.8870||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 10:03:58.6770||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 10:03:58.7003||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 10:03:58.8299||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Tham số sai 
+2021-05-27 10:06:02.6241||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 10:06:09.9447||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 10:06:09.9598||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 10:06:10.0688||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|System.Collections.Generic.List`1[FluentValidation.Results.ValidationFailure] 
+2021-05-27 10:07:01.4910||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 10:07:15.7695||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 10:07:15.7832||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 10:07:15.8902||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Price không được để trống 
+2021-05-27 10:12:05.9124||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 10:21:54.9237||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 10:23:27.3283||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 10:26:16.5958||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 10:32:07.0479||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 10:33:09.3655||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 10:33:29.4861||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 10:33:29.5055||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 10:35:45.5900||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 10:36:00.8550||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 10:36:00.8688||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 10:36:00.9782||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Price là số không phải là ký tự 
+2021-05-27 10:36:40.0499||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 10:36:46.8037||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 10:36:46.8206||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 10:36:46.9276||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Price là số không phải là ký tự
+Price là số không phải là ký tự 
+2021-05-27 10:37:20.5240||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 10:37:25.7665||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 10:37:25.7818||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 10:37:25.8954||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Price là số không phải là ký tự 
+2021-05-27 10:37:55.2280||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 10:38:00.9227||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 10:38:00.9393||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 10:38:01.0599||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Price là số không phải là ký tự 
+2021-05-27 10:38:52.1353||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 10:39:10.6145||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 10:39:19.1525||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 10:39:19.1708||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 10:41:06.2828||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 10:41:36.4177||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 10:41:36.4693||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|AddProduct 
+2021-05-27 10:42:28.7774||INFO|ProductManagement.API.Controllers.ProductsController|AddProduct 
+2021-05-27 10:42:28.8334||ERROR|ProductManagement.API.Middlewares.ErrorHandlingMiddleware|Price không được để trống 
+2021-05-27 11:09:17.8047||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 11:09:48.0853||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 11:11:33.1673||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 11:12:39.8936||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 11:15:06.2383||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 11:15:25.3674||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|GetProductById 
+2021-05-27 11:26:12.0195||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|GetProductById 
+2021-05-27 11:32:59.1326||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|GetProductById 
+2021-05-27 11:34:38.4944||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|GetProductById 
+2021-05-27 11:41:50.0097||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|GetProductById 
+2021-05-27 13:26:34.0599||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 13:26:39.7861||INFO|ProductManagement.Application.ProductsService.Services.ProductServices|GetProductById 
+2021-05-27 13:26:41.3649|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (10ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT p."ID", p."Description", p."DiscontinuedDate", p."Name", p."Price", p."Rating", p."ReleaseDate", p."SupplierID"
+FROM "Products" AS p
+WHERE p."ID" = @__p_0
+LIMIT 1 
+2021-05-27 13:26:41.4848|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (3ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT s."ID", s."Address", s."Name"
+FROM "Suppliers" AS s
+WHERE s."ID" = @__p_0 
+2021-05-27 13:26:41.5028|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT p."ProductID", p."Details"
+FROM "ProductDetails" AS p
+WHERE p."ProductID" = @__p_0 
+2021-05-27 13:26:41.5216|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT p."ProductID", p."CategoryID"
+FROM "ProductCategories" AS p
+WHERE p."ProductID" = @__p_0 
+2021-05-27 13:26:41.5414|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT c."ID", c."Name"
+FROM "Categories" AS c
+WHERE c."ID" = @__p_0 
+2021-05-27 13:26:41.5414|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT c."ID", c."Name"
+FROM "Categories" AS c
+WHERE c."ID" = @__p_0 
+2021-05-27 13:26:41.5414|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT c."ID", c."Name"
+FROM "Categories" AS c
+WHERE c."ID" = @__p_0 
+2021-05-27 14:39:14.4398|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (9ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT EXISTS (SELECT 1 FROM pg_catalog.pg_class c JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace WHERE c.relname='__EFMigrationsHistory'); 
+2021-05-27 14:39:14.5212|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT EXISTS (SELECT 1 FROM pg_catalog.pg_class c JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace WHERE c.relname='__EFMigrationsHistory'); 
+2021-05-27 14:39:14.5507|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (16ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId"; 
+2021-05-27 14:39:14.6181|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (36ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+ALTER TABLE "ProductDetails" DROP CONSTRAINT "FK_ProductDetails_Products_ProductID"; 
+2021-05-27 14:39:14.6831|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (64ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+ALTER TABLE "ProductDetails" ADD CONSTRAINT "FK_ProductDetails_Products_ProductID" FOREIGN KEY ("ProductID") REFERENCES "Products" ("ID") ON DELETE CASCADE; 
+2021-05-27 14:39:14.6831|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
+VALUES ('20210527014155_test4', '3.1.11'); 
+2021-05-27 14:39:54.6284||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 14:39:54.9266||FATAL|Microsoft.AspNetCore.Server.Kestrel|Unable to start Kestrel. System.IO.IOException: Failed to bind to address https://127.0.0.1:5001: address already in use.
+ ---> Microsoft.AspNetCore.Connections.AddressInUseException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+ ---> System.Net.Sockets.SocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportFactory.BindAsync(EndPoint endpoint, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.<>c__DisplayClass21_0`1.<<StartAsync>g__OnBind|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.LocalhostListenOptions.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(IServerAddressesFeature addresses, KestrelServerOptions serverOptions, ILogger logger, Func`2 createBinding)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+2021-05-27 14:39:54.9416||ERROR|ProductManagement.API.Program|Error in init System.IO.IOException: Failed to bind to address https://127.0.0.1:5001: address already in use.
+ ---> Microsoft.AspNetCore.Connections.AddressInUseException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+ ---> System.Net.Sockets.SocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportFactory.BindAsync(EndPoint endpoint, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.<>c__DisplayClass21_0`1.<<StartAsync>g__OnBind|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.LocalhostListenOptions.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(IServerAddressesFeature addresses, KestrelServerOptions serverOptions, ILogger logger, Func`2 createBinding)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Hosting.WebHost.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Hosting.WebHostExtensions.RunAsync(IWebHost host, CancellationToken token, String startupMessage)
+   at Microsoft.AspNetCore.Hosting.WebHostExtensions.RunAsync(IWebHost host, CancellationToken token, String startupMessage)
+   at Microsoft.AspNetCore.Hosting.WebHostExtensions.RunAsync(IWebHost host, CancellationToken token)
+   at Microsoft.AspNetCore.Hosting.WebHostExtensions.Run(IWebHost host)
+   at ProductManagement.API.Program.Main(String[] args) in E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.API\Program.cs:line 19
+2021-05-27 14:40:33.4548||DEBUG|ProductManagement.API.Program|nothing happen 
+2021-05-27 15:00:35.8029||DEBUG|ProductManagement.API.Program|nothing happen 

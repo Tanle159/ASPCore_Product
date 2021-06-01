@@ -1,0 +1,90 @@
+E:\Project\Product\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Domain.dll
+E:\Project\Product\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.csprojAssemblyReference.cache
+E:\Project\Product\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.AssemblyInfoInputs.cache
+E:\Project\Product\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.AssemblyInfo.cs
+E:\Project\Product\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.deps.json
+E:\Project\Product\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.runtimeconfig.json
+E:\Project\Product\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.runtimeconfig.dev.json
+E:\Project\Product\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.dll
+E:\Project\Product\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.pdb
+E:\Project\Product\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Domain.pdb
+E:\Project\Product\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.csproj.CoreCompileInputs.cache
+E:\Project\Product\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.csproj.CopyComplete
+E:\Project\Product\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.dll
+E:\Project\Product\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.pdb
+E:\Project\Product\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.genruntimeconfig.cache
+E:\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.deps.json
+E:\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.runtimeconfig.json
+E:\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.runtimeconfig.dev.json
+E:\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.dll
+E:\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.pdb
+E:\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Domain.dll
+E:\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Domain.pdb
+E:\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.csprojAssemblyReference.cache
+E:\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.AssemblyInfoInputs.cache
+E:\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.AssemblyInfo.cs
+E:\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.csproj.CoreCompileInputs.cache
+E:\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.csproj.CopyComplete
+E:\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.dll
+E:\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.pdb
+E:\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.genruntimeconfig.cache
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.deps.json
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.runtimeconfig.json
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.runtimeconfig.dev.json
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.pdb
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Domain.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Domain.pdb
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.csprojAssemblyReference.cache
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.AssemblyInfo.cs
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.csproj.CopyComplete
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.dll
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.pdb
+C:\Users\Windows 10\Downloads\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.genruntimeconfig.cache
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.deps.json
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.runtimeconfig.json
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.runtimeconfig.dev.json
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.pdb
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Domain.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Domain.pdb
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.csprojAssemblyReference.cache
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.AssemblyInfoInputs.cache
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.AssemblyInfo.cs
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.csproj.CoreCompileInputs.cache
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.csproj.CopyComplete
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.dll
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.pdb
+E:\abc\ProductManagement\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.genruntimeconfig.cache
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.deps.json
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.runtimeconfig.json
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.runtimeconfig.dev.json
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.pdb
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Domain.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Domain.pdb
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.csprojAssemblyReference.cache
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.AssemblyInfoInputs.cache
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.AssemblyInfo.cs
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.csproj.CoreCompileInputs.cache
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.csproj.CopyComplete
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.dll
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.pdb
+E:\Project\ProductManagement (1)\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.genruntimeconfig.cache
+C:\Source\Demo\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.deps.json
+C:\Source\Demo\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.runtimeconfig.json
+C:\Source\Demo\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.runtimeconfig.dev.json
+C:\Source\Demo\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.dll
+C:\Source\Demo\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Persistences.pdb
+C:\Source\Demo\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Domain.dll
+C:\Source\Demo\ProductManagement\ProductManagement.Persistences\bin\Debug\netcoreapp3.1\ProductManagement.Domain.pdb
+C:\Source\Demo\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.csprojAssemblyReference.cache
+C:\Source\Demo\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.AssemblyInfoInputs.cache
+C:\Source\Demo\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.AssemblyInfo.cs
+C:\Source\Demo\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.csproj.CoreCompileInputs.cache
+C:\Source\Demo\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.csproj.CopyComplete
+C:\Source\Demo\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.dll
+C:\Source\Demo\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.pdb
+C:\Source\Demo\ProductManagement\ProductManagement.Persistences\obj\Debug\netcoreapp3.1\ProductManagement.Persistences.genruntimeconfig.cache
